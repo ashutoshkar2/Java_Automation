@@ -1,6 +1,6 @@
 package Tasks_31st_May;
 
-public class ReverseString_Without_Function {
+public class Task1_ReverseString_Without_Function {
     public static void main(String[] args) {
 
         String str = new String("This sentence can be reversed");
