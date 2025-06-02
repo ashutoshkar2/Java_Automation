@@ -10,8 +10,8 @@ public class Task1_ElementsOfAnArrayInReverseOrder {
 
         //Printing in Reverse Order
 
-        for (int i=names.length;i>0;i--){
-            System.out.println(names[i-1]);
+        for (int i=names.length-1;i>=0;i--){
+            System.out.println(names[i]);
         }
     }
 }
